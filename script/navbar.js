@@ -31,7 +31,7 @@ if(userstatus!==true){
 function signout(){
     localStorage.removeItem("cickuserlogin");
     localStorage.removeItem("cickbuzzuser");
-    window.location.href = "signup.html";
+    window.location.href = "index.html";
 }
 
 

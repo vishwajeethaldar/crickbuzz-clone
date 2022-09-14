@@ -64,7 +64,7 @@ function verifyOtp(event){
     if(digit1==1 && digit2==2 && digit3==3 && digit4==4 && digit5==5 && digit6 == 6){
         localStorage.setItem("cickuserlogin", true);
         alert("Logged in successfully");
-        window.location.href="home.html";
+        window.location.href="index.html";
     }
 
 }
