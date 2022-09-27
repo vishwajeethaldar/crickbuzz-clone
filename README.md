@@ -9,4 +9,8 @@ project is build during the construction week of masai school.
 #
 ### Teammates
 #
-[]
+- **[Rajat](https://github.com/Rajat69745)**
+- **[Raj](https://github.com/raj74434)**
+- **[Dinesh](https://github.com/dineshjangid03)**
+- **[Debojyoti](https://github.com/Debjyoti07)**
+- **[Abhijet](https://github.com/Abhijeet-abhi)**
