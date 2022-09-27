@@ -3,7 +3,7 @@
 ## About
 crickbuzz.com is an online news website which provides various information related to cricket, users can know about match highlights, about teams, scoreboard, and many more information.
 
-project is build during the construction week of masai school. 
+project was build during the construction week of masai school. 
 
 ### Project Type - Group Project
 ### [official-website](https://www.cricbuzz.com), [Clone-website](https://vishwajeethaldar.github.io/crickbuzz-clone/)
